@@ -1,12 +1,21 @@
 # Questions
+
+https://normstraker/github.io/Questions/
+
 - Javascript enabled question with answer revealed with button activation
+
 ## HTML
+
 - article
+
 ## CSS
+
 - display: flex;
 - transition
 - transform
+
 ## Javascript
+
 - getElement
 - querySelector
 - if return
