@@ -1,6 +1,6 @@
 # Questions
 
-https://normstraker/github.io/Questions/
+https://normstraker.github.io/Questions/
 
 - Javascript enabled question with answer revealed with button activation
 
